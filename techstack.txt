@@ -1,8 +1,0 @@
-teckstack => 
-
-next js
-tailwind
-shadcn ui
-
-
-pieces for developers
